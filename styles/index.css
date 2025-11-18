@@ -1,0 +1,10 @@
+body{
+    background-color: black;
+}
+#player{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 40px;
+    image-rendering: pixelated;
+}
